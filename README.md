@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?text=junyoung&fontSize=40)
+![header](https://capsule-render.vercel.app/api?text=junyoung&fontSize=40&descSize=40)
 
 <div align=center><h1>Study<h1> <div>
 <div align=center>
