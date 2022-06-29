@@ -2,7 +2,7 @@
 
 <!--
 **junyoung0504/junyoung0504** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+고등학교
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
