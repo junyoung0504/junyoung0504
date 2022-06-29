@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=junyoung&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=skyblue&height=300&section=header&text=junyoung&fontSize=70)
 <div align=center><h1>Study<h1> <div>
 <div align=center>
 <img alt="flutter" src
