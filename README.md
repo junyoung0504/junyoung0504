@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?text=junyoung&fontSize=40&desc=Desc&descSize=30)
+![header](https://capsule-render.vercel.app/api?text=junyoung&fontSize=40)
 
 <!--
 **junyoung0504/junyoung0504** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
