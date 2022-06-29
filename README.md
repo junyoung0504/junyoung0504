@@ -2,7 +2,7 @@
 
 ## Study
 
-<img alt="flutter" src ="https://img.shields.io/badge/#02569B.svg?&style=for-the-badge&logo=flutter&logoColor=BLUE"/>
+<img alt="flutter" src ="https://img.shields.io/badge/flutter-#02569B.svg?&style=for-the-badge&logo=flutter&logoColor=BLUE"/>
 
 
 
