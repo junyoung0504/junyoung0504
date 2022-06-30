@@ -8,7 +8,7 @@
 </div>
  
 
-<h3 align="center">🪄 Blog 🪄</h3>
+<h2 align="center">🪄 Blog 🪄</h2>
 
 <div align="center" style="text-align:center">
   
