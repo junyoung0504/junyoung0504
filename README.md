@@ -8,7 +8,7 @@
 </div>
  
 
-<h2 align="center">🪄 Blog 🪄</h2>
+<h2 align="center"> Blog </h2>
 
 <div align="center" style="text-align:center">
   
@@ -16,6 +16,9 @@
   [![Velog's GitHub stats](asdsda)](https://velog.io/@junyoung0504)
   
 </div>
+ <br/>
+ 
+ <div align=center>
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=junyoung0504&show_icons=true&theme=radical)
  </div>
