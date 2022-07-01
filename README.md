@@ -12,8 +12,8 @@
 
 <div align="center" style="text-align:center">
   
-  [![Velog's GitHub stats](asda)](https://blog.naver.com/jjy3465)
-  [![Velog's GitHub stats](asdsda)](https://velog.io/@junyoung0504)
+  <h3>(https://blog.naver.com/jjy3465)
+  (https://velog.io/@junyoung0504)</h3>
   
 </div>
  <br/>
