@@ -12,8 +12,7 @@
 
 <div align="center" style="text-align:center">
   
-  <h3>(https://blog.naver.com/jjy3465)
-  (https://velog.io/@junyoung0504)</h3>
+  <h3>(https://blog.naver.com/jjy3465)</h3>
   
 </div>
  <br/>
